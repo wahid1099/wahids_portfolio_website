@@ -6,17 +6,17 @@ import {
 
 export const socials = [
   {
-    href: "https://github.com/sheikhmohdnazmulhasan",
+    href: "https://github.com/wahid1099",
     label: "Github",
     icon: IconBrandGithub,
   },
   {
-    href: "https://www.linkedin.com/in/sheikhmohdnazmulhasan/",
+    href: "https://www.linkedin.com/in/md-wahid1/",
     label: "LinkedIn",
     icon: IconBrandLinkedin,
   },
   {
-    href: "https://leetcode.com/u/sheikhmohdnazmulhasan/",
+    href: "https://leetcode.com/u/wahidahmed890/",
     label: "Leet Code",
     icon: IconBrandLeetcode,
   },
